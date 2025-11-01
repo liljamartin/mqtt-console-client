@@ -1,0 +1,3 @@
+/home/lilja/dev/aur/mqtt-console-client/src/mqtt-console-client-1.0.5/build/CMakeFiles/mqtt_client.dir
+/home/lilja/dev/aur/mqtt-console-client/src/mqtt-console-client-1.0.5/build/CMakeFiles/edit_cache.dir
+/home/lilja/dev/aur/mqtt-console-client/src/mqtt-console-client-1.0.5/build/CMakeFiles/rebuild_cache.dir

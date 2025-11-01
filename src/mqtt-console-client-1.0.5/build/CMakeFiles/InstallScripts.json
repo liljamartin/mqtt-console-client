@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lilja/dev/aur/mqtt-console-client/src/mqtt-console-client-1.0.5/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
